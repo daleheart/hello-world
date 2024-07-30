@@ -1,4 +1,5 @@
 # hello-world
-# i love pizza and milkshakes
-# people like to call me dale
-# i prefer meat over carbs 
+# I love pizza and milkshakes
+# People like to call me Dale
+# I prefer meat over carbs 
+# I love to travel and make friends
